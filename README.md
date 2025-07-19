@@ -71,8 +71,8 @@ cpp!
 5. Configure Firebase connection:
    - Set Firebase host URL and auth token.
    - Begin Firebase service.
-
----
+-
+--
 
 ### 🔁 **Main Loop (`loop()`)**
 Every **1 second**, the following happens:
