@@ -108,6 +108,7 @@ Every **1 second**, the following happens:
 - Uploads temperature, humidity, soil moisture, and motion status to Firebase.
 
 ---
+![WhatsApp Image 2025-07-19 at 4 40 34 PM](https://github.com/user-attachments/assets/7e25c755-a0f8-4e6d-acc5-8bc46f97673d)
 
 #### 5. **Print to Serial Monitor**
 Prints real-time status:
