@@ -39,13 +39,10 @@ You are building a **Smart Plant Monitoring System** that:
 #define FIREBASE_AUTH "95zON7XcZHfLMGd0cxXIN72vBX4zHezDth3CY7UW"
 ```
 → Firebase Database URL and authentication token.
+![WhatsApp Image 2025-07-19 at 4 40 34 PM](https://github.com/user-attachments/assets/c3b7f1f9-63f0-427d-84d1-89200de080d8)
 
 cpp!
 ```
-
-
-![WhatsApp Image 2025-07-19 at 4 40 34 PM](https://github.com/user-attachments/assets/c3b7f1f9-63f0-427d-84d1-89200de080d8)
-
 #define DHTPIN 4
 #define DHTTYPE DHT11
 ```
